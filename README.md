@@ -1,6 +1,13 @@
 # 💫 About Me:
-I'm learning cpp, c#, c and kotlin<br>I'm student<br>I'm working actually with ReactJs
-
+I'm a Computer Systems Engineering student with a strong passion for software development and learning new technologies. I'm currently exploring the world of programming through both academic projects and personal challenges.I participated in a state prototype competition where I gained experience building real solutions under pressure, and I’ve also developed several personal projects focused on automation, AI integration, and web technologies. Some of my work includes:
+<br>
+- A Python automation script that generates AI-based video stories.
+- A note-taking assistant bot designed to support my learning process.
+- A lightweight GitHub API integration project.
+- A PDF scraper built with Python to download documents from a specific site.
+<br>
+While my academic background is focused on Java, I've self-taught myself Python, JavaScript, TypeScript, and other tools. I adapt quickly to new environments and am always looking for opportunities to learn, grow, and contribute.I'm passionate about solving real-world problems with clean, efficient code, and I’m open to freelance collaborations, internships, or open-source contributions.
+<br>
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@avfl4028) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AvielFl) 
